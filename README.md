@@ -1,5 +1,5 @@
 # Titanic_Survival_Prediction
-Predictive Modelling using Machine Learning
+
 _______________________________________________________________________
 1. Import Libraries:
 
